@@ -1,2 +1,6 @@
 http://gis-lab.info/qa/coord-transforms.html
 http://gis-lab.info/forum/viewtopic.php?t=2335
+http://gis-lab.info/qa/mapinfo_to_wkt_proj4.html
+
+
+http://www.osti.gov/scitech/servlets/purl/231228
